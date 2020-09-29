@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.1.0)
+  - Kingfisher (5.14.0):
+    - Kingfisher/Core (= 5.14.0)
+  - Kingfisher/Core (5.14.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - ObjectMapper (3.5.2)
+  - PullToRefreshKit (0.8.8)
+  - Windless (0.1.5)
+
+DEPENDENCIES:
+  - Kingfisher
+  - Moya
+  - ObjectMapper
+  - PullToRefreshKit
+  - Windless
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Moya
+    - ObjectMapper
+    - PullToRefreshKit
+    - Windless
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  Kingfisher: 7b64389a43139c903ec434788344c288217c792d
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ObjectMapper: b53ae947d370bf89423e86be7d4e2d2b2a8d3f40
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+  Windless: c6b7d63ac3a0c7e6b241e316650d4605abf71894
+
+PODFILE CHECKSUM: 2830280233104e40c52007e5d4f9ab2567045149
+
+COCOAPODS: 1.9.1
